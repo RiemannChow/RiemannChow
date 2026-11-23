@@ -27,10 +27,6 @@
 | Stack | ![Java](https://img.shields.io/badge/Java-21-007396?logo=openjdk&logoColor=white) ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.3-6DB33F?logo=springboot&logoColor=white) ![AgentScope](https://img.shields.io/badge/AgentScope-2.0-1F6FEB?logo=robot&logoColor=white) ![SeekDB](https://img.shields.io/badge/SeekDB-vector%20DB-00838F?logo=database&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?logo=mongodb&logoColor=white) ![License](https://img.shields.io/badge/License-Apache%202.0-blue) |
 | Highlights | ReAct orchestration · A2UI structured result cards · Hybrid retrieval (vector + full-text + scalar) · Dual short/long-term memory · DDD-layered architecture |
 
-<div>
-<img src="https://github-profile-trophy.vercel.app/?username=RiemannChow&theme=gruvbox&row=1&column=7&no-frame=true&no-bg=true" alt="trophy" />
-</div>
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/RiemannChow/RiemannChow/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/RiemannChow/RiemannChow/output/github-contribution-grid-snake.svg">

@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 72" width="800" height="72" role="img" aria-label="Think big. Build great.">
+  <title>Think big. Build great.</title>
+  <defs>
+    <linearGradient id="shine" x1="0" y1="0" x2="800" y2="0" gradientUnits="userSpaceOnUse" spreadMethod="repeat">
+      <stop offset="0" stop-color="#ff6b8b"/>
+      <stop offset="0.17" stop-color="#ffb86c"/>
+      <stop offset="0.33" stop-color="#f1fa8c"/>
+      <stop offset="0.5" stop-color="#50fa7b"/>
+      <stop offset="0.67" stop-color="#8be9fd"/>
+      <stop offset="0.83" stop-color="#bd93f9"/>
+      <stop offset="1" stop-color="#ff6b8b"/>
+      <animateTransform attributeName="gradientTransform" type="translate" from="0 0" to="800 0" dur="5s" repeatCount="indefinite"/>
+    </linearGradient>
+    <clipPath id="rounded"><rect width="800" height="72" rx="12" ry="12"/></clipPath>
+  </defs>
+  <g clip-path="url(#rounded)">
+    <rect width="800" height="72" fill="#0d1117"/>
+    <rect x="0.5" y="0.5" width="799" height="71" rx="12" ry="12" fill="none" stroke="#30363d"/>
+    <g>
+      <animateTransform attributeName="transform" type="translate" from="0 0" to="-400 0" dur="16s" repeatCount="indefinite"/>
+    <text x="0" y="46" fill="url(#shine)" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" textLength="330" lengthAdjust="spacingAndGlyphs">Think big. Build great.</text>
+    <text x="344" y="46" fill="#ffb86c" font-size="26" font-family="'Segoe UI', Ubuntu, sans-serif">✦</text>
+    <text x="400" y="46" fill="url(#shine)" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" textLength="330" lengthAdjust="spacingAndGlyphs">Think big. Build great.</text>
+    <text x="744" y="46" fill="#ffb86c" font-size="26" font-family="'Segoe UI', Ubuntu, sans-serif">✦</text>
+    <text x="800" y="46" fill="url(#shine)" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" textLength="330" lengthAdjust="spacingAndGlyphs">Think big. Build great.</text>
+    <text x="1144" y="46" fill="#ffb86c" font-size="26" font-family="'Segoe UI', Ubuntu, sans-serif">✦</text>
+    <text x="1200" y="46" fill="url(#shine)" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" textLength="330" lengthAdjust="spacingAndGlyphs">Think big. Build great.</text>
+    <text x="1544" y="46" fill="#ffb86c" font-size="26" font-family="'Segoe UI', Ubuntu, sans-serif">✦</text>
+    <text x="1600" y="46" fill="url(#shine)" font-family="'Segoe UI', Ubuntu, sans-serif" font-size="30" font-weight="700" textLength="330" lengthAdjust="spacingAndGlyphs">Think big. Build great.</text>
+    <text x="1944" y="46" fill="#ffb86c" font-size="26" font-family="'Segoe UI', Ubuntu, sans-serif">✦</text>
+    </g>
+  </g>
+</svg>
